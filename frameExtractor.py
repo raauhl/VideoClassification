@@ -1,6 +1,4 @@
 """
-! git init
-! git remote add origin https://{raauhl}:{zxcvbnm,./123}@github.com/{raauhl}/VideoClassification.git
 This script extracts frames from videos and convert them into a numpy array
 """
 
